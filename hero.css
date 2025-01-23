@@ -1,0 +1,42 @@
+
+body {
+    background-color: rgba(198, 182, 134, 0.693);
+    margin: 0;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.subContainer{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textContainer{
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    padding-left: 2rem;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.text1{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.text2{
+    font-size: 1.5rem;
+}
+
+.image{
+    height: 50%;
+}
