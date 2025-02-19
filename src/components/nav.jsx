@@ -6,7 +6,7 @@ export default function Nav() {
         <div className='container'>
             <div className='subContainer'>
                 <div className='textContainer'>
-                    <p className='text1'>Hi! I'm Princess Allanah Ginon</p>
+                    <p className='text1'>Hi! I'm Princess Allanah Ginonyn </p>
                     <p className='text2'> An enthusiastic System Analyst</p>
                 </div>
             </div>

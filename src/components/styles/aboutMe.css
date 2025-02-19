@@ -1,0 +1,23 @@
+.containerAbout{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: rgba(198, 182, 134, 0.693);
+    flex-direction: column;
+}
+
+.aboutMeText{
+    font-size: 3rem;
+}
+
+.lowerContainer{
+    max-width: 700px;
+}
+
+.lowerContainer p{
+    font-size: 1.5rem;
+}
+
